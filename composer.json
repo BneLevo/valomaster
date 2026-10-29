@@ -1,0 +1,20 @@
+{
+    "name": "levent-ozgn/valomaster",
+    "description": "projet a-web valomaster",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LeventOzgn\\Valomaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "levent-ozgn",
+            "email": "levent.ozgn@eduge.ch"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "^5.8"
+    }
+}
